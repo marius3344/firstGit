@@ -1,0 +1,1 @@
+Tai yra pirmoji repositorija, skirta išmokti GIT
